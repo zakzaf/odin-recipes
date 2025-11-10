@@ -1,7 +1,7 @@
 # odin-recipes
-This is a recipes project which will consist of a website with a main index page which will have links to a few recipes.
+This is a project which consists of a website containing a main home page with links to several pages containing some of my most favourite recipes.
 
-By the end of this project, I will have demonstrated the HTML knowledge I have acquired so far.
+The successful completion of this project will demonstrate a significant portion of my HTML knowledge.
 
 
 <img src="https://source.roboflow.com/UmX90TXA7KPtCJqx9g4XwAZwK3j1/5mEmql1NzWRDSdwkiLFW/original.jpg" width="300" alt="An image of a smash burger">

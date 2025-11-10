@@ -4,6 +4,8 @@ This is a project which consists of a website containing a main home page with l
 The successful completion of this project will demonstrate a significant portion of my HTML knowledge.
 
 
+The Creative Commons attributions for all the images I have used in this project are below:
+
 <img src="https://source.roboflow.com/UmX90TXA7KPtCJqx9g4XwAZwK3j1/5mEmql1NzWRDSdwkiLFW/original.jpg" width="300" alt="An image of a smash burger">
 
 ["My First Project Computer Vision Dataset"](https://universe.roboflow.com/yolo-iv8xr/my-first-project-tl1pi/images/5mEmql1NzWRDSdwkiLFW?queryText=&pageSize=200&startingIndex=0&browseQuery=true) by [yolo](https://universe.roboflow.com/yolo-iv8xr) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

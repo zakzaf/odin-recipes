@@ -3,6 +3,8 @@ This is a project which consists of a website containing a main home page with l
 
 The successful completion of this project will demonstrate a significant portion of my HTML knowledge.
 
+UPDATE: CSS styling has been added to the website.
+
 
 The Creative Commons attributions for all the images I have used in this project are below:
 

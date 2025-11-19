@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: "Courier New", monospace;
+}
+
+.content {
+    background-color: white;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid lightgrey;
+    width: 650px;
+}
+
+h1 {
+    background-color: red;
+    padding: 2em;
+    margin-block-start: 0;
+    margin-block-end: 1.5em;
+    border: 5px dashed darkred;
+}
+
+.recipe-list {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.recipe-list li {
+    background-color: orange;
+    margin: 20px;
+    padding: 2em;
+    font-size: 25px;
+    font-weight: bold;
+    border: 5px dashed red;
+}
+
+.home-link {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    border: 5px solid lightgrey;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    border: 5px dashed black;
+}
+
+h2 {
+    background-color: orange;
+    padding: 2em;
+    margin-block-start: 2em;
+    margin-block-end: 0;
+    border: 5px dashed red;
+}
+
+p {
+    text-align: left;
+    border: 5px dashed lightsalmon;
+    padding: 20px;
+}
+
+.ingredients-list,
+.steps-list {
+    text-align: left;
+    border: 5px dashed lightsalmon;
+    margin-block-end: 2em;
+}
+
+.ingredients-list li, 
+.steps-list li {
+    margin: 20px;
+}
+
